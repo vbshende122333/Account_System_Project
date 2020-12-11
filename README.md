@@ -1,4 +1,4 @@
-# Bank_Account_System_Project-using-MySQL
+# Bank_Account_System_Project-using-MySQL-Database
 This is a simple Bank account Management Project which uses Mysql database to store the data of Accounts.
 
 The aim of project is to keep record of customer transaction in the bank.
